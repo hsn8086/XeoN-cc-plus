@@ -79,7 +79,7 @@ referers = [
     "https://www.google.am/search?q=",
     "https://www.google.co.ao/search?q=",
 ]
-
+proxies = []
 mode = "cc"
 url = ""
 proxy_ver = "5"
